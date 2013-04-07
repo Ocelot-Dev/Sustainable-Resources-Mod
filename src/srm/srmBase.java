@@ -4,7 +4,7 @@ import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = "Sustainable Resources Mod")
+@Mod(modid = "Sustainable Resources Mod", version = "0.0.0 Alpha")
 
 public class srmBase
 {
