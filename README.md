@@ -1,4 +1,4 @@
 Sustainable-Resources-Mod
 =========================
 
-Makes resources like coal and lava sustainable.
+Makes resources like coal and lava sstainable.
