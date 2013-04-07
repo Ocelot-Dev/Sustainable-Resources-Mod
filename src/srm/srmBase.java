@@ -8,6 +8,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 
 public class srmBase
 {
+	
 	@Init
 	
 	public void init(FMLInitializationEvent event)
@@ -15,4 +16,5 @@ public class srmBase
 		System.out.println("Initilizing Sustainable Resources Mod  (SMR)");
 		System.out.println("You are using a pre-alpha build!");
 	}
+	
 }
