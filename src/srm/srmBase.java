@@ -14,7 +14,7 @@ public class srmBase
 	public void init(FMLInitializationEvent event)
 	{
 		System.out.println("Initilizing Sustainable Resources Mod  (SMR)");
-		System.out.println("You are using a pre-alpha build!");
+		System.out.println("You are using a pre-alpha build! And peter fails :P");
 	}
 	
 }
